@@ -1,0 +1,73 @@
+First File.
+The file getting processed and the converted postfix notations are abc*+ and Invalid Expression.
+One more statement to test your coding skills to handle the character arrya without using any builtin funciton, 
+so show this expression in to prefix form -/*a b ^+c d f g . 
+The skill test doesn't stop there,
+you have to evaluate on more statement to prove your  skills on basic stack working. 
+Evalaution result of provided strings are (a+(b*c)).
+
+ So,you said you enjoyed the previous assignment and learned much and more :). Now, tell me the about the number of galxies in the picture.
+Total galxies in picture are 3. 
+
+this is just check your stack handling skills.  so i hope you will pass  this test alsoso keep going . So, now I am  tried of this thing.  I think that's enough.
+
+Syntax Error : Test-2.txt
+
+			 3rd File.
+The file getting processed and the converted postfix notations are -acbc*+ and Invalid Expression.
+One more statement to test your coding skills to handle the character arrya without using any builtin funciton, 
+so show this expression in to prefix form -/*ag bn ^+c d f g . 
+The skill test doesn't stop there,
+you have to evaluate on more statement to prove your  skills on basic stack working. 
+Evalaution result of provided strings are 57.
+
+ So,you said you enjoyed the previous assignment and learned much and more :). Now, tell me the about the number of galxies in the picture.
+Total galxies in picture are 2. 
+
+This is simply a test of your stack management abilities. So, I hope you pass this test as well, so keep going. So now I'm sick of this stuff.  That, I believe, is sufficient.
+
+			 4th File.
+The file getting processed and the converted postfix notations are -acbc*+ and Invalid Expression.
+One more statement to test your coding skills to handle the character arrya without using any builtin funciton, 
+so show this expression in to prefix form -/*ag bn ^+c d f g . 
+The skill test doesn't stop there,
+you have to evaluate on more statement to prove your  skills on basic stack working. 
+Evalaution result of provided strings are 57.
+
+ So,you said you enjoyed the previous assignment and learned much and more :). Now, tell me the about the number of galxies in the picture.
+Total galxies in picture are 2. 
+
+This is simply a test of your stack management abilities. So, I hope you pass this test as well, so keep going. So now I'm sick of this stuff.  That, I believe, is sufficient.
+
+
+Syntax Error : Test-5.txt
+
+			 5th File.
+Process this file Convert the given Infix expressions to postfix expression using standard algorithm. AB–CDE$$+FG*H/-                   and xy^5z*/2+ and ++a *b c d  .
+
+                Show your Coding skills and Dont use any built-in function for handling character array
+Read the below algorithm
+         Steps to Convert Postfix to Infix :
+Read the symbol from the input .based on the input symbol go to step 2 or 3.
+If symbol is operand then push it into stack.
+If symbol is operator then pop top 2 values from the stack.
+this 2 popped value is our operand .
+create a new string and put the operator between this operand in string.
+push this string into stack.
+At the end only one value remain in stack which is our infix expression.
+
+Input the the expression to convert it into Infix form Invalid Expression and Invalid Expression. 
+
+Wait you have to do one more task to complete this assignment
+you have to evaluate on more statement to prove your  skills on basic stack working. 
+Show the result if the given string after evaluation -14.
+
+ Did you miss assignment 1?. Now, tell me the about the number of galxies in the picture. ):
+Total galxies in picture are 2. Don't forget to save the genrated images in output folder.
+
+This is simply a test of your stack management abilities. So, I hope you pass this test as well, so keep going. So now I'm sick of this stuff.  That, I believe, is sufficient.
+
+
+Syntax Error : Test-7.txt
+
+LRU Results : Total Hits : 2, Total Faults : 5
